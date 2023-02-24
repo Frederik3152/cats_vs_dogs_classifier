@@ -2,9 +2,13 @@
 
 ## Dependencies
 tensorflow
+
 keras-tuner
+
 numpy
+
 cv2
+
 matplotlib
 
 ## Code Introduction
