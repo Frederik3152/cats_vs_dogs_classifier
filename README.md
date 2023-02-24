@@ -4,6 +4,7 @@
 This repository shows a full deep learning project, including data loading, data prepocessing, hyperparameter tuning, model training and 
 model testing. Included is the model architecture, the weights, the training configuration and optimizer state in the "my_model" folder,
 as well as a folder of random cat and dog pictures used for testing. 
+The final validation accuracy reached was 85.2%.
 
 ## Original Author
 Frederik Tørnstrøm (github.com/Frederik3152)
